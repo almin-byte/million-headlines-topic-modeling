@@ -1,0 +1,50 @@
+Dataset:
+https://www.kaggle.com/datasets/therohk/million-headlines/data
+
+GitHub repo:
+https://github.com/almin-byte/million-headlines-topic-modeling/tree/main
+
+"Trends in Global Focus" (NLP)
+
+Research Question: How have the thematic priorities of Australian ABC news headlines shifted from 2003 to 2021, and can we identify distinct eras of public discourse through topic modeling?
+
+- Data Wrangling & Cleaning: Complete
+	- pandas
+
+- Baseline Modeling: In progress
+	- General Idea: Get computer to output topics
+	- sklearn
+	- https://github.com/almin-byte/million-headlines-topic-modeling/tree/main
+
+- Advanced Modeling & Optimization: Incomplete
+	- General Idea: Making sense of the topics
+	- BERTopic/LDA?
+
+- Verification: Incomplete
+	- General Idea: Verify that the topics are reflective of reality
+	- Methodology unknown
+
+- Visualization & Storytelling: Incomplete
+	- General Idea: Showing the topics on a timeline to tell a story
+	- Matplotlib/seaborn
+	- eventually Plotly for interactivity?
+
+- Sources:
+
+https://medium.com/@mugeakbulut/determining-the-number-of-topics-in-the-lda-latent-dirichlet-allocation-algorithm-definitions-of-2972813c0881
+
+https://www.ibm.com/think/topics/latent-dirichlet-allocation
+
+https://medium.com/data-science/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
+
+https://www.youtube.com/watch?v=25JOEnrz40c
+
+https://medium.com/@benzgreer/sklearn-lda-vs-gensim-lda-691a9f2e9ab7
+
+https://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html
+
+https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
+
+https://proceedings.neurips.cc/paper_files/paper/2009/file/f92586a25bb3145facd64ab20fd554ff-Paper.pdf
+
+https://towardsdatascience.com/a-practical-guide-to-bertopic-for-transformer-based-topic-modeling/
