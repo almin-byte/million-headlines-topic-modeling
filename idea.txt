@@ -31,20 +31,33 @@ Research Question: How have the thematic priorities of Australian ABC news headl
 
 - Sources:
 
+How to find optimal # of topics:
 https://medium.com/@mugeakbulut/determining-the-number-of-topics-in-the-lda-latent-dirichlet-allocation-algorithm-definitions-of-2972813c0881
 
+Intro to LDA:
 https://www.ibm.com/think/topics/latent-dirichlet-allocation
 
+End-to-end LDA (gensim/spacy):
 https://medium.com/data-science/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
 
 https://www.youtube.com/watch?v=25JOEnrz40c
 
+Sklearn LDA vs gensim LDA:
 https://medium.com/@benzgreer/sklearn-lda-vs-gensim-lda-691a9f2e9ab7
 
+Sklearn LDA:
 https://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html
 
+LDA Blei paper:
 https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
 
 https://proceedings.neurips.cc/paper_files/paper/2009/file/f92586a25bb3145facd64ab20fd554ff-Paper.pdf
 
+BERTopic:
 https://towardsdatascience.com/a-practical-guide-to-bertopic-for-transformer-based-topic-modeling/
+
+LDA (geeksforgeeks):
+https://www.geeksforgeeks.org/machine-learning/latent-dirichlet-allocation-and-topic-modelling/
+
+spaCy:
+https://spacy.io/usage/spacy-101
