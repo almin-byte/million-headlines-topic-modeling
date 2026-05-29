@@ -61,3 +61,15 @@ https://www.geeksforgeeks.org/machine-learning/latent-dirichlet-allocation-and-t
 
 spaCy:
 https://spacy.io/usage/spacy-101
+
+Dynamic Topic Modeling (DTM):
+https://mimno.infosci.cornell.edu/info6150/readings/dynamic_topic_models.pdf
+
+Topic Modeling for Time-Series Data Approach:
+https://medium.com/@sleepywyn/a-guide-to-topic-modeling-for-time-series-data-57e59aa695cd
+
+LDA in practice:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8809584/#sec002
+
+BERTopic paper:
+https://arxiv.org/pdf/2203.05794
